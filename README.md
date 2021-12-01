@@ -5,7 +5,7 @@
 <br />
 
 - I am JavaScript, NodeJS, CSS, HTML developer
-- I have dream to build a small community [Discord server](https://discord.gg/pv9NAS9KvH)
+- I have dream to build a small [Discord server](https://discord.gg/pv9NAS9KvH) community
 - [My Youtube channel](https://www.youtube.com/channel/UCXuIRrri7WbYbKcelbYu15g) <img src="https://media.giphy.com/media/mA7fEN41GcZNK04oRI/giphy.gif" width="22px">
 
 <br />
