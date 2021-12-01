@@ -19,7 +19,6 @@
 <img align="left" alt="HTML5" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/html.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/javascript.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/git.png" />
 
 <br />
 
