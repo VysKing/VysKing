@@ -6,7 +6,7 @@ I am Badr, a Full-Stack Developer and Web designer.
   <img width=500 src="https://discord.c99.nl/widget/theme-1/788004009465872385.png"/>
 </a>
 
-## 🔧 Technologies & Tools i'm using
+## Technologies & Tools i'm using
 #### System
 ![](https://img.shields.io/badge/Manjaro-%2343853D?style=for-the-badge&logo=linux&logoColor=white&color=34be5b)
 ![](https://img.shields.io/badge/VSCode-%2343853D?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC)
