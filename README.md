@@ -27,10 +27,18 @@ I am Badr, a Full-Stack Developer and Web designer.
 ![](https://img.shields.io/badge/SQLite-%2343853D?style=for-the-badge&logo=sqlite&logoColor=white&color=003B57)
 ![](https://img.shields.io/badge/MongoDB-%2343853D?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
 
-## 📊 Stats
+#### Stats
 <a href="https://github.com/nundir/nundir">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VysKing&theme=dracula&line_height=27&show_icons=true&include_all_commits=true&count_private=true" alt="Martin's GitHub Stats" />
 </a>
 <a href="https://github.com/nundir/nundir">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VysKing&theme=dracula&langs_count=3&count_private=true" />
 </a>
+
+<div align=center>
+  <h3><b>Profile Visitor Counter</b></h3>
+</div>
+    
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/VysKing/count.svg" />  
+</p>
