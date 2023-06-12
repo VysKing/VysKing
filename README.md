@@ -1,29 +1,14 @@
-### __👋 Hey, I'm Badr.__ 
-14, pursuing full-stack JavaScript development.
+3 align="center">Just a human being</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vysking&label=Profile%20views&color=0e75b6&style=flat" alt="vysking" /> </p>
 
-<a href="https://discord.gg/pv9NAS9KvH"><img align="right" src="https://lanyard.cnrad.dev/api/788004009465872385?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment...&bg=00000000" /></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<details>
-  <summary><b>📋 About</b></summary>
+<h3 align="left">Discord profile:</h3>
+<a href="https://discord.com/users/788004009465872385">
 
-  I make stuff. \
-  Mostly with JavaScript.
+  <img width=500 src="https://discord.c99.nl/widget/theme-2/788004009465872385.png"/>
 
-  [🌐 website](https://www.vysking.ml) \
-  [📧 email](mailto:vysking@outlook.com)
-</details>
-
-<details>
-  <summary>📊 Some stats of me</summary>
-  
-![My github stats!](https://github-readme-stats.vercel.app/api?username=VysKing&show_icons=true&custom_title=My%20Github%20Stats:&line_height=33&include_all_commits=true&bg_color=00000000&title_color=00CCAA&text_color=dddddd&hide_border=true&hide_title=true#gh-dark-mode-only) \
-![My top langauges](https://github-readme-stats.vercel.app/api/top-langs?username=VysKing&show_icons=true&layout=compact&card_width=645&bg_color=00000000&title_color=00CCAA&text_color=dddddd&hide_border=true&hide_title=true#gh-dark-mode-only)
-</details>
-
-</details>
-
-
-
-[![Hits](https://hits.link/hits?url=https://github.com/VysKing&bgLeft=444444&bgRight=575fff&label=visits)](https://github.com/VysKing)
+</a>
+<img align="left" width="100%" style="margin: 0 10px 0 0;" alt=" " src="https://media.discordapp.net/attachments/877859563016159252/879664980218249216/colour_line2.gif">
